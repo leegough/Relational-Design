@@ -1,0 +1,15 @@
+DROP TABLE IF EXISTS `for`;
+DROP TABLE IF EXISTS `t_sign`;
+DROP TABLE IF EXISTS `m_sign`;
+DROP TABLE IF EXISTS `has_office`;
+DROP TABLE IF EXISTS `manages`;
+DROP TABLE IF EXISTS `tech_skills`;
+DROP TABLE IF EXISTS `manager`;
+DROP TABLE IF EXISTS `technician`;
+DROP TABLE IF EXISTS `tenant`;
+DROP TABLE IF EXISTS `employee`;
+DROP TABLE IF EXISTS `lease_agreement`;
+DROP TABLE IF EXISTS `person_number`;
+DROP TABLE IF EXISTS `person`;
+DROP TABLE IF EXISTS `apartment`;
+DROP TABLE IF EXISTS `building`;
